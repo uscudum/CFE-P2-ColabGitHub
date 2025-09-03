@@ -4,6 +4,8 @@ public class Formulario extends JFrame {
     private JLabel lblTitulo;
     private JButton btnConfirmar;
     private JPanel contentPane;
+    private JTextField txtNombre;
+    private JLabel lblNombre;
 
 
     public static void main(String[] args) {
